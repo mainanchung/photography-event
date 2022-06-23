@@ -13,6 +13,7 @@ html {
 h1{
   font-size: 3rem;
   color: white;
+  text-transform: uppercase;
 
 }
 
@@ -20,7 +21,7 @@ hr {
     margin: 20px auto;
     color: #F05F44;
     border: 1px solid white;
-    max-width: 300px;
+    max-width: 200px;
     opacity: 1; 
 
 }
